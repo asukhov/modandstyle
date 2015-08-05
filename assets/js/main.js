@@ -47,7 +47,7 @@
 					usePopupNav: true,
 					windowMargin: (skel.breakpoint('mobile').active ? 0 : 50)
 				});
-				// $body.removeClass('is-loading');
+				$body.removeClass('is-loading');
 			});
 
 		// CSS polyfills (IE<9).

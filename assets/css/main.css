@@ -1780,9 +1780,9 @@
 		margin: 2.5em 0 0 0;
 	}
 
-/* Image */
+/* Image 
 
-/*	.image {
+	.image {
 		position: relative;
 		display: inline-block;
 		border: 0;
@@ -1819,7 +1819,7 @@
 				margin: 0 auto;
 				width: auto;
 			}
-*/
+			*/
 /* Image */
 
 		.image {
@@ -2283,7 +2283,7 @@
 
 	#header {
 		position: relative;
-		background-image: url("../../images/header.jpg");
+		background-image: url("/images/header.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
