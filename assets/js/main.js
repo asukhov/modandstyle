@@ -49,6 +49,7 @@
 				});
 				$body.removeClass('is-loading');
 			});
+			
 
 		// CSS polyfills (IE<9).
 			if (skel.vars.IEVersion < 9)
