@@ -1626,11 +1626,11 @@
 	}
 
 	h3 {
-		font-size: 1.25em;
+		font-size: 1.6em;
 	}
 
 	h4 {
-		font-size: 150%;
+		font-size: 1.3em;
 		margin: 0 0 0.25em 0;
 	}
 	
@@ -1700,6 +1700,12 @@
 		text-align: left;
 		padding: 0 0 0 2%;
 	}
+	
+	p.text-right{
+		text-align: right;
+		padding: 0 0 0 2%;
+	}
+
 
 	p.text {
 		text-align: justify;
@@ -2730,6 +2736,66 @@
 			}
 
 				#footer .copyright a:hover {
+					color: rgba(212, 212, 212, 0.85);
+				}
+		#footer .copyright2 {
+			text-align: center;
+			color: rgba(128, 128, 128, 0.75);
+			font-size: 0.8em;
+			cursor: default;
+			background: #ffffff;
+		}
+
+			#footer .copyright2 a {
+				color: rgba(128, 128, 128, 0.75);
+			}
+
+				#footer .copyright2 a:hover {
+					color: rgba(212, 212, 212, 0.85);
+				}
+	#footer2 {
+		position: relative;
+		overflow: hidden;
+		padding: 1em 0 1em 0;
+		background: #fff;
+		color: #fff;
+	}
+
+		#footer2 .icon.circled {
+			background: #fff;
+			color: #2b252c;
+		}
+
+		#footer2 header {
+			text-align: center;
+			cursor: default;
+		}
+
+		#footer2 h2, #footer h3, #footer h4, #footer h5, #footer h6 {
+			color: #fff;
+		}
+
+		#footer2 .contact {
+			text-align: center;
+		}
+
+			#footer2 .contact p {
+				text-align: center;
+				margin: 0 0 3em 0;
+			}
+
+		#footer2 .copyright {
+			text-align: center;
+			color: rgba(128, 128, 128, 0.75);
+			font-size: 0.8em;
+			cursor: default;
+		}
+
+			#footer2 .copyright a {
+				color: rgba(128, 128, 128, 0.75);
+			}
+
+				#footer2 .copyright a:hover {
 					color: rgba(212, 212, 212, 0.85);
 				}
 
