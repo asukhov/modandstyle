@@ -2278,12 +2278,24 @@
 	.wrapper {
 		background: #fff;
 		margin: 0 0 2em 0;
-		padding: 1em 0 6em 0;
+		padding: 1em 0 1em 0;
 	}
 
 		.wrapper.style2 {
 			padding-top: 0;
 		}
+
+
+	.wrapper0 {
+			background: #fff;
+			margin: 0 0 2em 0;
+			padding: 1em 0 1em 0;
+	}
+
+			.wrapper0.style2 {
+		padding-top: 0;
+		}
+
 
 /* Header */
 
