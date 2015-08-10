@@ -2700,7 +2700,7 @@
 	}
 
 		#main section:first-of-type {
-			padding-top: 2em;
+			padding-top: 0.2em;		/* 2em Project Reload space between Header and Gallery*/
 		}
 
 /* Footer */
