@@ -1709,8 +1709,16 @@
 
 	p.text {
 		text-align: justify;
-		font-size: 120%;
+		font-size: 1.15em;
 		padding: 0 0 0 2%;
+		line-height: 1.5em;
+	}
+
+	p.text-feed {
+		text-align: justify;
+		font-size: 1.15em;
+		padding: 0 0 0 0;
+		line-height: 1.5em;
 	}
 
 
