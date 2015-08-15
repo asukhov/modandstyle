@@ -1633,7 +1633,13 @@
 		font-size: 1.3em;
 		margin: 0 0 0.25em 0;
 	}
-	
+
+	h4.red {
+		font-size: 1.3em;
+		margin: 0 0 0.25em 0;
+		color: #fd7366;
+	}
+
 	h5 {
 		font-family: 'Ultra';
 		font-size: 200%;
