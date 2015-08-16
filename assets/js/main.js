@@ -73,7 +73,7 @@
 					usePopupNav: true,
 					windowMargin: (skel.breakpoint('mobile').active ? 0 : 50)
 				});
-
+				
 				$body.removeClass('is-loading');
 			});
 			
