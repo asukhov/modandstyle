@@ -2928,6 +2928,10 @@
 			.carousel article.loading {
 				opacity: 0;
 			}
+			
+			.carousel article.simple {
+				background: #f0f4f4;
+			}
 
 			.carousel article .image {
 				position: relative;
